@@ -3,3 +3,14 @@ background-color:#68531f ;
 
 
 }
+
+
+.capa{
+   color: brown; 
+   font-size: 20px;
+}
+
+#heroi{
+    display: flex;
+    padding-left: 200px;
+}
