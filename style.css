@@ -17,7 +17,7 @@ background-color:#68531f ;
 
 .videos{
 
-    display: flex;
+    display: inline-block;
 }
 
 
